@@ -5,5 +5,5 @@
   tasks:
   - name: print to the screen
     debug:
-        msg: "Kennys github webhook just ran!"
+        msg: "Kennys github webhook v2 just ran!"
 
